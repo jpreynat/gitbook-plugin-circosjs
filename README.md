@@ -4,11 +4,7 @@ Simple Gitbook plugin to include js in pages
 Install
 -------
 
-```
-npm install gitbook-plugin-circosjs -g
-```
-
-Then in the book.json file, write
+In the book.json file, write
 
 ```
 {
@@ -18,3 +14,10 @@ Then in the book.json file, write
     }
 }
 ```
+
+Then:
+
+```
+gitbook install
+```
+

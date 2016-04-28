@@ -1,7 +1,6 @@
 {
     "name": "gitbook-plugin-circosjs",
     "description": "Gitbook plugin to include js in templates",
-    "main": "index.js",
     "version": "0.0.3",
     "engines": {
         "gitbook": "*"
